@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pokémon TV</string>
+
+    <string name="splash_legal">© %1$d Pokémon. © 1995–%1$d Nintendo/Creatures Inc./GAME FREAK inc. TM, ®, and character names are trademarks of Nintendo.</string>
+
+    <string name="manifest_error_dialog_title">@string/app_name</string>
+    <string name="manifest_error_dialog_message">Unfortunately we are unable to access the channels at this time. Please try again later.</string>
+    <string name="manifest_error_dialog_positive">Exit</string>
+
+</resources>

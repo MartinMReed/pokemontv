@@ -1,0 +1,8 @@
+.DS_Store
+/*.iml
+/build
+/.gradle
+/local.properties
+/captures
+.idea/
+lint.xml

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+    <!-- android:transparent doesn't work at all API levels -->
+    <color name="transparent">#00000000</color>
+
+    <color name="default_background">#00636d</color>
+    <color name="selected_background">#d68c33</color>
+
+    <color name="default_card_text">#ffffff</color>
+    <color name="selected_card_text">#000000</color>
+
+</resources>
